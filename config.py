@@ -1,0 +1,5 @@
+DB_NAME = "phonebook_db"
+DB_USER = "pp2"
+DB_PASSWORD = "pp2_password" 
+DB_HOST = "localhost"
+DB_PORT = "5432"
